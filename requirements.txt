@@ -1,0 +1,4 @@
+Django==3.2.13
+django_choices==1.7.2
+djangorestframework==3.13.1
+djchoices==0.2
